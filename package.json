@@ -1,0 +1,13 @@
+{
+  "name": "expense-tracker-mini-project",
+  "version": "1.0.0",
+  "description": "End-to-end expense tracker mini project using HTML, CSS, JavaScript, Node.js, Express, and JSON file storage.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
